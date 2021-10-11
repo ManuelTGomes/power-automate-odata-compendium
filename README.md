@@ -43,9 +43,6 @@ There are a lot of experssions and data from my [website](https://manueltgomes.c
 
 ## How to use it?
 
-If you want to test the expresions you can always go to 
-Here are some ways to use it.
-
 ### Code Samples
 
 
