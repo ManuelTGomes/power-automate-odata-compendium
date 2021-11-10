@@ -31,11 +31,6 @@
     ·
 </p>
 
-<p align="center"><a href="https://www.buymeacoffee.com/manueltgomes"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=manueltgomes&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff"></a></p>
-<p aligh="center">10% of all proceeds go to St. Jude Children's Research Hospital.</p>
-<p aligh="center">If you want to donate directly go to <a href="https://www.stjude.org/donate/donate-to-st-jude.html?sc_icid=home-btn-donate-now">their official website</a> and give, even if it's $1 or 1€. They are saving kids with cancer for free and sharing the research with the world. What better way to give back?
-</p>
-
 ## Introduction
 
 There are a lot of expressions and data from my [website](https://manueltgomes.com/) that I'm centralizing here. Also I'll provide some examples and some expressions that can be used in Power Automate.
